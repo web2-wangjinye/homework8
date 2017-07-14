@@ -1,0 +1,33 @@
+*{
+margin:0px;
+padding:0px;
+}
+.clearfix{
+*zoom:1;
+}
+.clearfix:after{
+display:table;
+content:"";
+clear:both;
+}
+.all{
+width:700px;
+margin:0px auto;
+}
+.fl{
+float:left;
+}
+.fr{
+float:right;
+}
+ul li{
+list-style:none;
+font-size:10px; 
+}
+ul{
+margin-top:40px;
+margin-right:60px;
+margin-left:40px;
+}
+
+
